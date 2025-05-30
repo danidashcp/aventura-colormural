@@ -14,3 +14,6 @@ Avances técnicos:
 
 
 Próximos pasos:
+
+
+Problemas o bloqueos:
