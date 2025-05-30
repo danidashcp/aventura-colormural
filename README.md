@@ -28,7 +28,8 @@ Diana Aileen Coyotl Rojas
 
 ### 1.2 Resumen de la historia del juego
 
-[Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # 
+Se cuenta una leyenda sobre los Cristel, que son un grupo de elfos en el que se dividían dependiendo de su sabiduría y poder; los reyes y los nobles. Aquellos elfos tienen a los gatos como su deidad principal.
+Su religión, la floridia veneraba mucho a las plantas, flores y creían que su alma es una semilla que al crecer, florecerá. En sus templos cultivaban muchos tipos de plantas que al comerlas les otorga distintos poderes. Los sacerdotes transmitían sus conocimientos de herbolaria a los Cristel.
 
 ### 1.3 Resumen de la historia del juego.
 
