@@ -13,8 +13,11 @@ Diana Aileen Coyotl Rojas
 ## Tabla de evaluación del equipo.
 
 | Nombre | Colaboración | Comunicación | Responsabilidad
+
 |Danna Paola Villegas Méndez | 10 | 8 | 9|
+
 |Enrique Guzmán Laguna | 9 | 10 | 8 |
+
 |Diana Aileen Coyotl Rojas |9 | 8 | 10 |
 
 ## 1. Propósito de tu juego
