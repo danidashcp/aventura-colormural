@@ -3,7 +3,9 @@
 **Desarrolladores:**
 
 Danna Paola Villegas Méndez
+
 Enrique Guzmán Laguna
+
 Diana Aileen Coyotl Rojas
 
 [Añade una imagen de tu juego.]: 
