@@ -8,9 +8,9 @@ Enrique Guzmán Laguna
 
 Diana Aileen Coyotl Rojas
 
-[Añade una imagen de tu juego.]: 
+Portada del juego:
 
-<img src="imagen.jpg" width="80%" height="Auto">
+<img src="portada elfos.png" width="80%" height="Auto">
 
 ## Tabla de evaluación del equipo.
 
