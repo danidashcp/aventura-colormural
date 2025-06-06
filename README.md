@@ -40,6 +40,7 @@ Su religión, la floridia veneraba mucho a las plantas, flores y creían que su 
 ## 2. Jugabilidad
 
 Con las teclas A, w, s, d se mueve el personaje, para saltar será con la tecla de espacio, para interactuar con los objetos (recoger las flores que se vaya encontrando el personaje) la tecla "e" , con click izquierdo para pegar al enemigo, para abrir el menu la tecla "escape", para correr se deberá presionar la tecla "shift", y para abrir el mapa se debe presionar la tecla "m".
+<img src="jugabilidadteclado_page-0001.jpg" width="80%" height="Auto">
 
 ## 3. Mundo del juego
 
