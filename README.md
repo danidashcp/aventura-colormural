@@ -26,16 +26,15 @@ Portada del juego:
 
 ### 1.1 Resumen del juego
 
-[Escribe un resumen de mínimo 150 palabras.]: # 
+Este juego tiene como inspiraciones a Zelda, Pokemón y Stardew Valley, es un rpg de aventura, y slash. El estilo gráfico es 2d pixel art.
+El jugador puede elegir entre dos personajes, ya sea el guerrero o la chica mágica.
+El objetivo principal es derrotar al enemigo principal, las hadas; por lo que el jugador deberá recoger ítems, y principalmente flores a lo largo del camino para adquirir poderes especiales.
+El juego se ambienta en un bosque mágico, lleno de plantas y flores. El jugador poco a poco va descubriendo más parte de la historia para llegar al jefe final de las hadas. 
 
 ### 1.2 Resumen de la historia del juego
 
 Se cuenta una leyenda sobre los Cristel, que son un grupo de elfos en el que se dividían dependiendo de su sabiduría y poder; los reyes y los nobles. Aquellos elfos tienen a los gatos como su deidad principal.
 Su religión, la floridia veneraba mucho a las plantas, flores y creían que su alma es una semilla que al crecer, florecerá. En sus templos cultivaban muchos tipos de plantas que al comerlas les otorga distintos poderes. Los sacerdotes transmitían sus conocimientos de herbolaria a los Cristel.
-
-### 1.3 Resumen de la historia del juego.
-
-Se cuenta una leyenda sobre los Cristel, que son un grupo de elfos en el que se dividían dependiendo de su sabiduría y poder; los reyes y los nobles. Aquellos elfos tienen a los gatos como su deidad principal. Su religión, la floridia veneraba mucho a las plantas, flores y creían que su alma es una semilla que, al crecer, florecerá. En sus templos cultivaban muchos tipos de plantas que al comerlas les otorga distintos poderes. Los sacerdotes transmitían sus conocimientos de herbolaria a los Cristel.
 
 ## 2. Jugabilidad
 
