@@ -62,11 +62,12 @@ El jugador puede correr con shift y recoger objetos con la tecla” e”.
 
 ## 6. Plan del proyecto
 
-Diagrama de Gantt:
-<img src="plandeproyectoo_page-0001.jpg" width="80%" height="Auto">
 
-Presupuesto:
+<img src="plandeproyectoo_page-0001.jpg" width="80%" height="Auto">
+Diagrama de Gantt:
+
 <img src="plandeproyectoo_page-0002.jpg" width="80%" height="Auto">
+Presupuesto:
 
 Estrategia de monetización: 
 Para que nuestro videojuego sea sostenible, necesitamos una estrategia de monetización que respete al jugador y permita recuperar la inversión.
