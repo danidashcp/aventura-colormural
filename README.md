@@ -62,7 +62,23 @@ El jugador puede correr con shift y recoger objetos con la tecla” e”.
 
 ## 6. Plan del proyecto
 
-[El plan debe incluir un diagrama de Gantt con el cronograma de desarrollo, ten en cuenta las fechas.]: # 
+Diagrama de Gantt:
+<img src="plandeproyectoo_page-0001.jpg" width="80%" height="Auto">
+
+Presupuesto:
+<img src="plandeproyectoo_page-0002.jpg" width="80%" height="Auto">
+
+Estrategia de monetización: 
+Para que nuestro videojuego sea sostenible, necesitamos una estrategia de monetización que respete al jugador y permita recuperar la inversión.
+Modelo principal
+Se venderá mediante un pago único entre $60 y $100 MXN. Dependiendo la plataforma. Más adelante se lanzarán DLCs opcionales con nuevas funciones o contenido adicional.
+Lanzamiento y comunidad
+Iniciaremos con una demo gratuita en Itch.io y un acceso anticipado en Steam. Usaremos redes sociales y plataformas para conectar con la comunidad.
+Ingresos adicionales
+Ofreceremos una tienda dentro del juego donde se puedan conseguir skins para las armas o nuevos atuendos para los personajes. Algunos de estos cosméticos se podrán conseguir viendo anuncios o simplemente jugando.
+Plataformas
+El juego se publicará en Steam (por su alcance) e Itch.io (por su flexibilidad), permitiendo experimentar con distintos modelos de venta y visibilidad.
+
 
 ## 7. Bibliografía
 
