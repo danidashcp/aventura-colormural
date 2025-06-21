@@ -58,7 +58,9 @@ El jugador puede correr con shift y recoger objetos con la tecla” e”.
 
 ## 5. Personajes
 
-[Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # 
+Hana: Posee un cetro mágico como arma principal; ataca a distancia, es la encargada del cuidado de los jardines de las diferentes plantas, tiene una personalidad sabia, pacifista y amable. Siente una gran conexión con las plantas y le complace el poder cuidarlas y saber acerca de los poderes que estas radican.
+Fëanor: Es un guerrero y posee una espada como arma principal; ataca a distancia igual que Hana, es un elfo de alto rango debido a su gran poder, es un joven sabio y fuerte, es un guerrero como muchos, que se encargan de defender la ciudad por si hay peligros, el tiene una personalidad bastante seria y fría, pero se esfuerza al máximo por hacerse más fuerte con el poder de las flores para ayudar a su pueblo.
+
 
 ## 6. Plan del proyecto
 
