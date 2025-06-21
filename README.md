@@ -63,10 +63,10 @@ El jugador puede correr con shift y recoger objetos con la tecla” e”.
 ## 6. Plan del proyecto
 
 
-Diagrama de Gantt: <img src="plandeproyectoo_page-0001.jpg" width="80%" height="Auto">
+<img src="plandeproyectoo_page-0001.jpg" width="80%" height="Auto">
 
 
-Presupuesto: <img src="plandeproyectoo_page-0002.jpg" width="80%" height="Auto">
+<img src="plandeproyectoo_page-0002.jpg" width="80%" height="Auto">
 
 
 Estrategia de monetización: 
