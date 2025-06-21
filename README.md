@@ -43,11 +43,18 @@ Con las teclas A, w, s, d se mueve el personaje, para saltar será con la tecla 
 
 ## 3. Mundo del juego
 
-[Es importante que su proyecto abarque al menos 4 hojas.]: # 
+Este juego será en pixel art, principalmente con colores fríos y brillantes. La música será tranquila y en 8-bit.
+En efectos de sonido, habrá sonido de viento, de cristales, de plantas.
+Efecto de cuando el personaje va caminando por cierto lugar.
+El jugador debe elegir entre el guerrero o la chica mágica, en caso de que elija al guerrero el arma principal será la espada, y en caso de que elija a la chica mágica el arma principal será el cetro mágico. Al principio hay una breve introducción a la historia que explica quiénes son los cristels y porqué sus enemigos principales son las hadas. El jugador debe ir recogiendo las notas para avanzar más en la historia y así llegar al jefe final. 
+A lo largo de su aventura, puede ir recogiendo flores y llevándolas a los templos para convertirlas en pociones para adquirir alguna otra habilidad especial.
+
 
 ## 4. Mecánicas del Juego
 
-[Incluye ejemplos claros o diagramas.]: # 
+Se puede interactuar con los npc’s, pero sin influir en la historia, sólo servirán para dar instrucciones, como en el caso de los sacerdotes que están en el templo, ellos explicarán al jugador para qué sirven las flores y cómo convertirlas en pociones.
+El jugador puede correr con shift y recoger objetos con la tecla” e”.
+ 
 
 ## 5. Personajes
 
