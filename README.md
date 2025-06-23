@@ -103,12 +103,19 @@ El juego se publicará en Steam (por su alcance) e Itch.io (por su flexibilidad)
 
 ## 7. Bibliografía
 
-2D Pixel Art Top-Down Character Template (3/4 perspective) by ZeggyGames. (s. f.). itch.io. https://zegley.itch.io/2d-pixel-art-top-down-character-template /n
-Free - Pixel Art Asset Pack - Topdown Tileset - 16x16 Sprites by Anokolisa. (s. f.). itch.io. https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites /n
-Guía definitiva para crear un diagrama de Gantt. (s. f.). https://miro.com/. https://miro.com/es/planificacion-estrategica/como-hacer-diagrama-de-gantt/ /n
+2D Pixel Art Top-Down Character Template (3/4 perspective) by ZeggyGames. (s. f.). itch.io. https://zegley.itch.io/2d-pixel-art-top-down-character-template 
+
+
+Free - Pixel Art Asset Pack - Topdown Tileset - 16x16 Sprites by Anokolisa. (s. f.). itch.io. https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites 
+
+
+Guía definitiva para crear un diagrama de Gantt. (s. f.). https://miro.com/. https://miro.com/es/planificacion-estrategica/como-hacer-diagrama-de-gantt/
+
 Mecánicas. 
-Lo que hace a un videojuego ser un juego. (s. f.). https://es.alg.academy/mecnicasloquehaceunvideojuego /n
-¿Qué es el Game Design Document? | Tokio School. (s. f.). Tokio School. https://www.tokioschool.com/noticias/que-es-game-design-document/ /n
+Lo que hace a un videojuego ser un juego. (s. f.). https://es.alg.academy/mecnicasloquehaceunvideojuego 
+
+
+¿Qué es el Game Design Document? | Tokio School. (s. f.). Tokio School. https://www.tokioschool.com/noticias/que-es-game-design-document/ 
 
 
 
