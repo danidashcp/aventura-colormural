@@ -60,10 +60,11 @@ Abajo a la derecha aparecerán hasta tres íconos circulares con los poderes act
 
 •	Mini-mapa: En la esquina superior derecha se mostrará un mapa circular del bosque, destacando caminos explorados, y enemigos cercanos.
 
+<img src="Sin título-1_page-0003.jpg" width="80%" height="Auto">
 
 
 
-
+<img src="storyboardd_page-0001.jpg" width="80%" height="Auto">
 
 ## 4. Mecánicas del Juego
 
