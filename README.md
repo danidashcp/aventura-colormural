@@ -43,11 +43,26 @@ Con las teclas A, w, s, d se mueve el personaje, para saltar será con la tecla 
 
 ## 3. Mundo del juego
 
-Este juego será en pixel art, principalmente con colores fríos y brillantes. La música será tranquila y en 8-bit.
-En efectos de sonido, habrá sonido de viento, de cristales, de plantas.
-Efecto de cuando el personaje va caminando por cierto lugar.
-El jugador debe elegir entre el guerrero o la chica mágica, en caso de que elija al guerrero el arma principal será la espada, y en caso de que elija a la chica mágica el arma principal será el cetro mágico. Al principio hay una breve introducción a la historia que explica quiénes son los cristels y porqué sus enemigos principales son las hadas. El jugador debe ir recogiendo las notas para avanzar más en la historia y así llegar al jefe final. 
-A lo largo de su aventura, puede ir recogiendo flores y llevándolas a los templos para convertirlas en pociones para adquirir alguna otra habilidad especial.
+ El estilo gráfico de “CRISTEL” estará inspirado en títulos clásicos como The Legend of Zelda: The Minish Cap y Stardew Valley, utilizando una estética pixel art en 2D con vista cenital (top-down). Este estilo permitirá reflejar la magia del bosque y la fantasía del mundo de los elfos.
+La paleta de colores estará compuesta principalmente por tonos fríos que aportan una atmósfera nocturna, tranquila y mágica. Predominarán los azules profundos, morados suaves, y verdes aqua, creando una sensación de calma y conexión con la naturaleza. El rosa se usará en detalles mágicos y elementos luminosos, aportando un toque delicado. El color amarillo, en cambio, será vibrante y resaltará en puntos clave, como en las flores mágicas que iluminan el entorno o marcan zonas importantes. Este contraste ayudará a guiar visualmente al jugador y a enriquecer la estética mágica del bosque.
+ Los personajes tienen proporciones estilizadas, con cabezas ligeramente más grandes para resaltar sus expresiones, tendrán movimientos animados en pixel art. El diseño de los personajes hace que resalten más contrastando con los escenarios.
+
+•	Interfaz del usuario 
+La interfaz del usuario (GUI) se integrará con el estilo natural: barras de vida representadas con estilo de flores, íconos de poderes mágicos con formas, y menús enmarcados con madera y hojas pixeladas.
+
+Durante la exploración y el combate, el jugador verá una interfaz con los siguientes elementos: 
+•	Barra de vida: Representada por una flor con pétalos. A medida que el personaje recibe daño, los pétalos se marchitan o caen. Estará ubicada en la esquina superior izquierda. 
+
+•	Habilidades mágicas: 
+Abajo a la derecha aparecerán hasta tres íconos circulares con los poderes activos del personaje. 
+
+•	Inventario rápido: En la parte inferior izquierda, habrá un menú con los objetos (flores) recolectados. 
+
+•	Mini-mapa: En la esquina superior derecha se mostrará un mapa circular del bosque, destacando caminos explorados, y enemigos cercanos.
+
+
+
+
 
 
 ## 4. Mecánicas del Juego
