@@ -86,6 +86,7 @@ Fëanor: Es un guerrero y posee una espada como arma principal; ataca a distanci
 
 <img src="plandeproyectoo_page-0002.jpg" width="80%" height="Auto">
 
+<img src="Sin título-1_page-0005.jpg" width="80%" height="Auto">
 
 Estrategia de monetización: 
 Para que nuestro videojuego sea sostenible, necesitamos una estrategia de monetización que respete al jugador y permita recuperar la inversión.
