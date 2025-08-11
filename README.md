@@ -26,39 +26,32 @@ Portada del juego:
 
 ### 1.1 Resumen del juego
 
-Este juego tiene como inspiraciones a Zelda, Pokemón y Stardew Valley, es un rpg de aventura, y slash. El estilo gráfico es 2d pixel art.
-El jugador puede elegir entre dos personajes, ya sea el guerrero o la chica mágica.
-El objetivo principal es derrotar al enemigo principal, las hadas; por lo que el jugador deberá recoger ítems, y principalmente flores a lo largo del camino para adquirir poderes especiales.
-El juego se ambienta en un bosque mágico, lleno de plantas y flores. El jugador poco a poco va descubriendo más parte de la historia para llegar al jefe final de las hadas. 
+Este juego tiene como inspiraciones a Zelda, Pokemón y Stardew Valley, es un rpg de aventura, y slash. El estilo gráfico es 2d pixel art. 
+El juego tiene como personaje principal a una chica mágica. El objetivo principal es derrotar al enemigo principal, las hadas; al terminar de derrotar a las hadas, el jugador podrá recoger flores para que pueda pasar al siguiente nivel. 
+El juego se ambienta en un bosque mágico, lleno de plantas y flores. 
+
 
 ### 1.2 Resumen de la historia del juego
 
-Se cuenta una leyenda sobre los Cristel, que son un grupo de elfos en el que se dividían dependiendo de su sabiduría y poder; los reyes y los nobles. Aquellos elfos tienen a los gatos como su deidad principal.
-Su religión, la floridia veneraba mucho a las plantas, flores y creían que su alma es una semilla que al crecer, florecerá. En sus templos cultivaban muchos tipos de plantas que al comerlas les otorga distintos poderes. Los sacerdotes transmitían sus conocimientos de herbolaria a los Cristel.
+Se cuenta una leyenda sobre los Cristel, que son un grupo de elfos en el que se dividían dependiendo de su sabiduría y poder; los reyes y los nobles. Aquellos elfos tienen a los gatos como su deidad principal. Su religión, la floridia veneraba mucho a las plantas, flores y creían que su alma es una semilla que, al crecer, florecerá. En sus templos cultivaban muchos tipos de plantas. Los sacerdotes transmitían sus conocimientos de herbolaria a los Cristel.
 
 ## 2. Jugabilidad
 
-Con las teclas A, w, s, d se mueve el personaje, para saltar será con la tecla de espacio, para interactuar con los objetos (recoger las flores que se vaya encontrando el personaje) la tecla "e" , con click izquierdo para pegar al enemigo, para abrir el menu la tecla "escape", para correr se deberá presionar la tecla "shift", y para abrir el mapa se debe presionar la tecla "m".
-<img src="jugabilidadteclado_page-0001.jpg" width="80%" height="Auto">
+Ya sea con las teclas A, w, s, d, o las flechas, se puede mover el personaje.  Mientras que con la tecla Z, puede activar su poder y atacar a los enemigos.
+<img src="tecladooo_page-0001.jpg" width="80%" height="Auto">
 
 ## 3. Mundo del juego
 
- El estilo gráfico de “CRISTEL” estará inspirado en títulos clásicos como The Legend of Zelda: The Minish Cap y Stardew Valley, utilizando una estética pixel art en 2D con vista cenital (top-down). Este estilo permitirá reflejar la magia del bosque y la fantasía del mundo de los elfos.
-La paleta de colores estará compuesta principalmente por tonos fríos que aportan una atmósfera nocturna, tranquila y mágica. Predominarán los azules profundos, morados suaves, y verdes aqua, creando una sensación de calma y conexión con la naturaleza. El rosa se usará en detalles mágicos y elementos luminosos, aportando un toque delicado. El color amarillo, en cambio, será vibrante y resaltará en puntos clave, como en las flores mágicas que iluminan el entorno o marcan zonas importantes. Este contraste ayudará a guiar visualmente al jugador y a enriquecer la estética mágica del bosque.
- Los personajes tienen proporciones estilizadas, con cabezas ligeramente más grandes para resaltar sus expresiones, tendrán movimientos animados en pixel art. El diseño de los personajes hace que resalten más contrastando con los escenarios.
+El estilo gráfico de “CRISTEL” estará inspirado en títulos clásicos como The Legend of Zelda: The Minish Cap y Stardew Valley, utilizando una estética pixel art en 2D con vista cenital (top-down). Este estilo permitirá reflejar la magia del bosque y la fantasía del mundo de los elfos. 
+La paleta de colores estará compuesta principalmente por tonos fríos que aportan una atmósfera nocturna, tranquila y mágica. Predominarán los azules profundos, morados suaves, y verdes aqua, creando una sensación de calma y conexión con la naturaleza. El rosa se usará en detalles mágicos y elementos luminosos, aportando un toque delicado. El color amarillo, en cambio, será vibrante y resaltará en puntos clave, como en las flores mágicas que iluminan el entorno o marcan zonas importantes. Este contraste ayudará a guiar visualmente al jugador y a enriquecer la estética mágica del bosque. 
+Los personajes tienen proporciones estilizadas, con cabezas ligeramente más grandes para resaltar sus expresiones, tendrán movimientos animados en pixel art. El diseño de los personajes hace que resalten más contrastando con los escenarios.
 
-•	Interfaz del usuario 
-La interfaz del usuario (GUI) se integrará con el estilo natural: barras de vida representadas con estilo de flores, íconos de poderes mágicos con formas, y menús enmarcados con madera y hojas pixeladas.
+• Interfaz del usuario: La interfaz del usuario (GUI) se integrará con el estilo natural: barras de vida representadas con estilo de flores, ícono de su poder mágico con forma circular, y menús enmarcados con madera y hojas pixeladas. 
 
-Durante la exploración y el combate, el jugador verá una interfaz con los siguientes elementos: 
-•	Barra de vida: Representada por una flor con pétalos. A medida que el personaje recibe daño, los pétalos se marchitan o caen. Estará ubicada en la esquina superior izquierda. 
+• Barra de vida: Representada por una flor con pétalos. A medida que el personaje recibe daño, los pétalos se marchitan o caen. Estará ubicada en la esquina superior izquierda. 
+• Habilidad: Representada por una poción, el personaje principal puede lanzar magia de su cetro mágico hacia el enemigo.
 
-•	Habilidades mágicas: 
-Abajo a la derecha aparecerán hasta tres íconos circulares con los poderes activos del personaje. 
 
-•	Inventario rápido: En la parte inferior izquierda, habrá un menú con los objetos (flores) recolectados. 
-
-•	Mini-mapa: En la esquina superior derecha se mostrará un mapa circular del bosque, destacando caminos explorados, y enemigos cercanos.
 
 <img src="Sin título-1_page-0003.jpg" width="80%" height="Auto">
 
@@ -70,14 +63,13 @@ Abajo a la derecha aparecerán hasta tres íconos circulares con los poderes act
 
 ## 4. Mecánicas del Juego
 
-Se puede interactuar con los npc’s, pero sin influir en la historia, sólo servirán para dar instrucciones, como en el caso de los sacerdotes que están en el templo, ellos explicarán al jugador para qué sirven las flores y cómo convertirlas en pociones.
-El jugador puede correr con shift y recoger objetos con la tecla” e”.
- 
+El jugador puede interactuar con el enemigo atacándolo con la tecla Z. El personaje se puede mover con las teclas A, W, S, D o también usando las flechas.
 
 ## 5. Personajes
 
 Hana: Posee un cetro mágico como arma principal; ataca a distancia, es la encargada del cuidado de los jardines de las diferentes plantas, tiene una personalidad sabia, pacifista y amable. Siente una gran conexión con las plantas y le complace el poder cuidarlas y saber acerca de los poderes que estas radican.
-Fëanor: Es un guerrero y posee una espada como arma principal; ataca a distancia igual que Hana, es un elfo de alto rango debido a su gran poder, es un joven sabio y fuerte, es un guerrero como muchos, que se encargan de defender la ciudad por si hay peligros, el tiene una personalidad bastante seria y fría, pero se esfuerza al máximo por hacerse más fuerte con el poder de las flores para ayudar a su pueblo.
+Fëanor: Es un guerrero es un joven sabio y fuerte, es un guerrero como muchos, que se encargan de defender la ciudad por si hay peligros, él tiene una personalidad bastante seria y fría, pero se esfuerza al máximo por hacerse más fuerte con el poder de las flores para ayudar a su pueblo. A pesar de que en el juego sólo aparece como un npc.
+
 
 
 ## 6. Plan del proyecto
