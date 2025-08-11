@@ -53,10 +53,7 @@ Los personajes tienen proporciones estilizadas, con cabezas ligeramente más gra
 
 
 
-<img src="Sin título-1_page-0003.jpg" width="80%" height="Auto">
-
-
-<img src="Sin título-1_page-0005.jpg" width="80%" height="Auto">
+<img src="interfazimagen_page-0001.jpg" width="80%" height="Auto">
 
 
 <img src="storyboardd_page-0001.jpg" width="80%" height="Auto">
